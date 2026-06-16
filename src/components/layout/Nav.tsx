@@ -49,7 +49,7 @@ export default function Nav() {
             ))}
             <li className="nav-cta-group">
               <a
-                href="/resume.pdf"
+                href="./resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="nav-cta"

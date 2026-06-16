@@ -130,7 +130,7 @@ export default function Hero() {
             </button>
             <a
               id="resume-btn"
-              href="/resume.pdf"
+              href="./resume.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-secondary"
